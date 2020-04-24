@@ -1,0 +1,25 @@
+{
+  "name": "employee_cms",
+  "version": "1.0.0",
+  "description": "A CLI Employee Management System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanDukes/Employee_CMS.git"
+  },
+  "author": "Dan \"Dukes\" DeGeare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanDukes/Employee_CMS/issues"
+  },
+  "homepage": "https://github.com/DanDukes/Employee_CMS#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
