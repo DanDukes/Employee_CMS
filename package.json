@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/DanDukes/Employee_CMS#readme",
   "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
     "console.table": "^0.10.0",
     "express": "^4.17.1",
     "inquirer": "^7.1.0",
